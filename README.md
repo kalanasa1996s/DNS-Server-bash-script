@@ -1,7 +1,7 @@
 # DNS-Server-bash-script
 Easy to install DNS server using bash script for ubuntu (Debian) distribution
 
-#Run the script file as root
+# Run the script file as root
 
 To use this script follow the instruction
 
